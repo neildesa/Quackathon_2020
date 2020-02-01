@@ -14,12 +14,16 @@
 
 7. Procedurally place obstacles
 
-8. Add an enemy in a room -
-	- doesn't do anything
+8. Add an enemy in a room
+	- at first doesn't do anything
 	- then follows you around
 	- then can hit you
 	
-9. Randomly generate enemy specifics - legs->speed,mvmtType; body->hitbox,health; head->tbd; weapon->range
+9. Randomly generate enemy specifics 
+	- legs->speed, mvmtType 
+	- body->hitbox,health
+	- head->tbd
+	- weapon->range
 
 10. Add more
 	
